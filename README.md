@@ -138,6 +138,15 @@ The following accounts are automatically created on startup via `DataInitializer
 
 ---
 
+## 📖 Live API Documentation (Swagger)
+
+You can interact with the API directly through the built-in Swagger UI. This provides a live testing environment for all endpoints.
+
+- **Swagger UI URL:** `http://localhost:8080/swagger-ui/index.html`
+- **OpenAPI Docs:** `http://localhost:8080/v3/api-docs`
+
+---
+
 ## 🚀 Getting Started
 
 ### Prerequisites
