@@ -46,6 +46,9 @@ public class TransactionController {
         return ResponseEntity.ok("Expense has been successfully validated and recorded!");
     }
 
+
+    
+
     @DeleteMapping("/expenses/{id}")
     public ResponseEntity<String> deleteExpense(
             @AuthenticationPrincipal User user,
